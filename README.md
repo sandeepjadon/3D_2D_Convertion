@@ -1,8 +1,8 @@
 # 3D-to-imageSpace
 
-<p align="center">
+
 ![alt text](https://github.com/spjadon/3D-to-imageSpace/tree/master/img/posture.png)
-</p>
+
   
  Color Space coordinates:
 u=(X*f x /z)+C x
