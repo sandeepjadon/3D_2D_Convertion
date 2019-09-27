@@ -1,4 +1,4 @@
-## Coversion from 3D Space coordinate to 2D- Image Coordinate
+## Coversion from 3D Space coordinate to 2D Image Coordinate
 
 Let us consider (X,Y,Z) are the 3D Space coordinates and fx, fy are the focal length of Kinect V2.
 
