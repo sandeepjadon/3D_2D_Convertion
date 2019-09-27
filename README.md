@@ -9,8 +9,8 @@ Let us consider (X,Y,Z) are the 3D Space coordinates and fx, fy are the focal le
 
 ```
 Color Space Coordinates:
-u=(X*fx /Z) + Cx
-v=(Y*fy /Z) + Cy
+u = (X*fx /Z) + Cx
+v = (Y*fy /Z) + Cy
 where (X,Y,Z) are the Camera Coordinates and fx, fy are the focal lengths.
 ```
 
