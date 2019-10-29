@@ -21,6 +21,8 @@ Principal point (Cx, Cy) = (989.3053162, 555.9211734) and focal length fx = 1045
 #### To run this code:
 
   The input file format contains, a csv file with 3D coordinates. Once the input format is achieved, run the code below to get csv file with 2D image coordinates.
+  
+  
 
 ```
 python conversion.py --input input.csv --output output.csv
